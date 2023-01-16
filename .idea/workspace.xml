@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5da7f2d-264f-4aa0-add9-ed1da29cc210" name="Changes" comment="Homework01">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/simple-it/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/simple-it/verify.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework01Scanner/P01Scanner.java" afterDir="false" />
-    </list>
+    <list default="true" id="c5da7f2d-264f-4aa0-add9-ed1da29cc210" name="Changes" comment="Homework01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +53,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673768850318</updated>
     </task>
+    <task id="LOCAL-00001" summary="Homework01">
+      <created>1673771717800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673771717800</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
