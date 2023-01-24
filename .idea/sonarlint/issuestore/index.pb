@@ -14,3 +14,9 @@ Z
 -src/main/java/homework03Int/P02Rectangle.java,b\3\b32f4b11bc5a8f366a6e784f40e74be66a2b8721
 [
 +src/main/java/homework03Int/P03EvenOdd.java,b\9\b9382b952929410c6179a3509a40114b40c8b587
+h
+8src/main/java/homework08Task/P02CompanyTask/Company.java,6\1\617fcb1ac0fcf485f7e793042063018a5a8fd6f5
+l
+<src/main/java/homework08Task/P02CompanyTask/CompanyTask.java,9\a\9a5704d01d4c05e2675ffac90a89f8e187d7390e
+a
+1src/main/java/homework08Task/P01ValidInvalid.java,4\e\4ed21374848c980976ebc940abdef0dc0ec6ac8a
