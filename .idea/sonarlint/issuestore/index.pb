@@ -20,3 +20,11 @@ l
 <src/main/java/homework08Task/P02CompanyTask/CompanyTask.java,9\a\9a5704d01d4c05e2675ffac90a89f8e187d7390e
 a
 1src/main/java/homework08Task/P01ValidInvalid.java,4\e\4ed21374848c980976ebc940abdef0dc0ec6ac8a
+\
+,src/main/java/homework07Math/P01MathMax.java,f\7\f71d81ec869f6ff18a6dd838ad937d16e9e856d9
+a
+1src/main/java/homework07Math/P02TriangleArea.java,5\7\57cf89ccf3b2ef50016fe40388045a6a296f770c
+`
+0src/main/java/homework07Math/P03ArrayRandom.java,9\1\91b394dfaeca6760ddd0eba533a39360bbd366b4
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
