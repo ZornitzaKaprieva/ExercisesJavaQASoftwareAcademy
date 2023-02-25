@@ -28,3 +28,17 @@ a
 0src/main/java/homework07Math/P03ArrayRandom.java,9\1\91b394dfaeca6760ddd0eba533a39360bbd366b4
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+_
+/src/main/java/homework01Scanner/P01Scanner.java,a\4\a4a307bd157b7d5b6878fe4730354ac8e5b3f3e2
+^
+.src/main/java/homework02String/P01Replace.java,3\c\3cca42918a980e8a77449b04f52a7a43acb999fc
+`
+0src/main/java/homework02String/P02Comparing.java,7\b\7b8dc3a1c2839faa0ef81fbc30cdde17d4d88709
+w
+G.idea/sonarlint/issuestore/1/d/1d4dedad1832431471f5dcfacc90714bc5a18558,c\0\c05968accf4b7cb210b8ca0e2b8a5a34b73a695a
+w
+G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
+w
+G.idea/sonarlint/issuestore/c/c/cc6f520546fb19ed5e8f9143cb1aa12dfc3e646e,c\2\c2fb88c3ab8dbbf2a045be2ca9fcbaed51c29590
+w
+G.idea/sonarlint/issuestore/e/1/e1b4587d955ad5363d63f5744b6a4f4042ebcddb,b\1\b103785dcf95dd5b1dbe5ae8fcec0ee78a0510da
