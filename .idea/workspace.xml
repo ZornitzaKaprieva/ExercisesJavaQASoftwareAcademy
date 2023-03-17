@@ -4,40 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5da7f2d-264f-4aa0-add9-ed1da29cc210" name="Changes" comment="Organizing homework into packages">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ed21374848c980976ebc940abdef0dc0ec6ac8a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57cf89ccf3b2ef50016fe40388045a6a296f770c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/617fcb1ac0fcf485f7e793042063018a5a8fd6f5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/810c812d1fd62ac45d3df4b7a047d98d80486492" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/91b394dfaeca6760ddd0eba533a39360bbd366b4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a5704d01d4c05e2675ffac90a89f8e187d7390e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b32f4b11bc5a8f366a6e784f40e74be66a2b8721" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9382b952929410c6179a3509a40114b40c8b587" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f71d81ec869f6ff18a6dd838ad937d16e9e856d9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/01/scanner/P01Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/scanner/P01Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/02/string/P01Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/string/P01Replace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/02/string/P02Comparing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/string/P02Comparing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/02/string/P03CountingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/string/P03CountingCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/02/string/P04Concat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/string/P04Concat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/03/int/P01MaxNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/int/P01MaxNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/03/int/P02Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/int/P02Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/03/int/P03EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/int/P03EvenOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/03/int/P04WeekDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/int/P04WeekDays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/05/methods/P01Pass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/methods/P01Pass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/05/methods/P02Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/methods/P02Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/05/methods/P02Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/methods/P02Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/05/methods/P03SumAveragePlusParamNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/methods/P03SumAveragePlusParamNew.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/07/math/P01MathMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/math/P01MathMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/07/math/P02TriangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/math/P02TriangleArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/07/math/P03ArrayRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/math/P03ArrayRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/08/task/P01ValidInvalid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/task/P01ValidInvalid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/08/task/P02CompanyTask/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/task/P02CompanyTask/Company.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/08/task/P02CompanyTask/CompanyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/task/P02CompanyTask/CompanyTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/08/task/P02CompanyTask/ETCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/task/P02CompanyTask/ETCompany.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/08/task/P02CompanyTask/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/task/P02CompanyTask/Invoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/08/task/P02CompanyTask/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/task/P02CompanyTask/Test.java" afterDir="false" />
+    <list default="true" id="c5da7f2d-264f-4aa0-add9-ed1da29cc210" name="Changes" comment="P01indexMultipliedBy5 added.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework/arrays/P02AverageInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677321963102</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Package names were edited.">
+      <created>1679054443906</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679054443906</updated>
+    </task>
+    <task id="LOCAL-00009" summary="P01indexMultipliedBy5 added.">
+      <created>1679054583803</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679054583803</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +185,8 @@
     <MESSAGE value="homework07Math" />
     <MESSAGE value="homework05Methods" />
     <MESSAGE value="Organizing homework into packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Organizing homework into packages" />
+    <MESSAGE value="Package names were edited." />
+    <MESSAGE value="P01indexMultipliedBy5 added." />
+    <option name="LAST_COMMIT_MESSAGE" value="P01indexMultipliedBy5 added." />
   </component>
 </project>
