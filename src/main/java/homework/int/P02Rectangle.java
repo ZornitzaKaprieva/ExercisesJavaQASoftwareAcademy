@@ -1,11 +1,10 @@
 package homework03Int;
 
-// from Lecture 06:
-
 import java.util.Scanner;
 
 /* Напишете програма/ метод, която за подадени дължина и височина на правоъгълник,
 изкарват на конзолата неговият периметър и лице. */
+
 public class P02Rectangle {
     public static void main(String[] args) {
 
