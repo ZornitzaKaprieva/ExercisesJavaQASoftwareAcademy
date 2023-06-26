@@ -1,10 +1,9 @@
 package homework03Int;
 
-// from Lecture 06:
-
 import java.util.Scanner;
 
-/*Напишете програма/ метод, която приема от конзолата 3 подадени числа определя кое е най-голямото. */
+/*Напишете програма/ метод, която приема от конзолата 3 подадени числа определя кое е най-голямото.*/
+
 public class P01MaxNum {
     public static void main(String[] args) {
 
