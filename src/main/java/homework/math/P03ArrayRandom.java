@@ -2,8 +2,8 @@ package homework.math;
 
 import java.util.Random;
 
-/*Напишете метод който има един входен параметър за дължина на масив и пълни масива с случайни числа
-(да се използва клас Random). */
+/*Напишете метод който има един входен параметър за дължина на масив и пълни масива с случайни числа (да се използва клас Random). */
+
 public class P03ArrayRandom {
     public static void main(String[] args) {
 
