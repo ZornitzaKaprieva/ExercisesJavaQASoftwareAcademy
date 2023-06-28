@@ -3,6 +3,7 @@ package homework.math;
 import java.util.Scanner;
 
 /*Ъпдейтнете задачата с намирането на максималното измежду 3 числа да използва Math класа.*/
+
 public class P01MathMax {
 
     public static void main(String[] args) {
@@ -17,18 +18,17 @@ public class P01MathMax {
         System.out.printf("Between the numbers entered %d, %d and %d, the larger is %d.\n", x, y, z, Math.max(x, Math.max(y, z))); //най-голямото от 3 подадени числа
 
         //solution 02:
-        Scanner scanner = new Scanner(System.in);
+        // Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter a number: ");
-        int number1 = Integer.parseInt(scanner.nextLine());
+        // System.out.println("Enter a number: ");
+        // int number1 = Integer.parseInt(scanner.nextLine());
 
-        System.out.println("Enter а second number: ");
-        int number2 = Integer.parseInt(scanner.nextLine());
+        // System.out.println("Enter а second number: ");
+        // int number2 = Integer.parseInt(scanner.nextLine());
 
-        System.out.println("Enter a third number: ");
-        int number3 = Integer.parseInt(scanner.nextLine());
+        // System.out.println("Enter a third number: ");
+        // int number3 = Integer.parseInt(scanner.nextLine());
 
-        System.out.printf("Between the numbers entered %d, %d and %d, the larger is %d.\n", number1, number2, number3, Math.max(number1, Math.max(number2, number3)));
-
+        // System.out.printf("Between the numbers entered %d, %d and %d, the larger is %d.\n", number1, number2, number3, Math.max(number1, Math.max(number2, number3)));
     }
 }
