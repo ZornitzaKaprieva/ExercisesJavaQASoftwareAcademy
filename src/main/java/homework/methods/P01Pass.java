@@ -1,7 +1,5 @@
 package homework.methods;
 
-//from Lecture 09:
-
 /* Напишете метод, който проверява дали въведен стринг може да бъде използван за парола.
 Основни правила за парола:
 Паролата трябва да е поне 8 символа;
@@ -11,7 +9,6 @@ public class P01Pass {
 
     public static void main(String[] args) {
         System.out.println(isPassValid("zytxucyuyv5"));
-
     }
 
     public static boolean isPassValid (String pass) {
