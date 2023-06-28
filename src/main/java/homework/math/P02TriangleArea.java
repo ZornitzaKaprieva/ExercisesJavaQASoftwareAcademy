@@ -3,9 +3,10 @@ package homework.math;
 import java.util.Scanner;
 
 /*Напишете метод който намира лице на триъгълник(използвайки Math класа)*/
-public class P02TriangleArea {
 
+public class P02TriangleArea {
     public static void main(String[] args) {
+        
         //solution 01:
         Scanner scanner = new Scanner(System.in);
 
@@ -22,10 +23,10 @@ public class P02TriangleArea {
 
         System.out.printf("The area of the triangle with sides %.2f and %.2f and angle %.2f degrees is %.2f.\n", sideA, sideB, angle, findTriangleAreaByTwoSidesAndAngle(sideA, sideB, angle));
 
-
         //solution 02:
-        System.out.println("TriangleArea: " + findTriangleAreaByTwoSidesAndAngle(3.0, 5.0, 60.0));
+      System.out.println("TriangleArea: " + findTriangleAreaByTwoSidesAndAngle(3.0, 5.0, 60.0));
     }
+    
     public static double findTriangleAreaByTwoSidesAndAngle (double sideA, double sideB, double angle) {
         return 0.5 * sideA * sideB * Math.sin(Math.toRadians(angle)); //по формулата за лице на триъгълник
     }
