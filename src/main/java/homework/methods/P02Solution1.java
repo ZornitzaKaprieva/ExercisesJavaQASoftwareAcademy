@@ -1,12 +1,10 @@
 package homework.methods;
 
-//from Lecture 09:
-
 import java.util.Scanner;
 
 /* Напишете метод, който проверява дали въведените 3 числа са:
-Положителни
-Равни */
+Положителни / Равни */
+
 public class P02Solution1 {
     public static void main(String[] args) {
 
@@ -30,11 +28,11 @@ public class P02Solution1 {
             System.out.println("Some of the numbers are positive, but some of the numbers are negative.");
         }
 
-            if (a == b && b == c) {
-                System.out.printf("The numbers %d, %d, and %d are equal to each other.\n", a, b, c);
-            } else {
-                System.out.printf("The numbers %d, %d, and %d are not equal to each other.\n", a, b, c);
+        if (a == b && b == c) {
+            System.out.printf("The numbers %d, %d, and %d are equal to each other.\n", a, b, c);
+        } else {
+            System.out.printf("The numbers %d, %d, and %d are not equal to each other.\n", a, b, c);
 
-            }
         }
     }
+}
