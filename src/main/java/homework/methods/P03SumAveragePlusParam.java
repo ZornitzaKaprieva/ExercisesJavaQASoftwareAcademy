@@ -1,12 +1,9 @@
 package homework.methods;
 
-//from Lecture 09:
-
-/* Напишете метод, който на база въведени две числа връща средна стойност.//  ok
-Напишете др метод, който приема два параметъра - числа, и връща сумата им. //ok
-
+//from Lecture 09
+/* Напишете метод, който на база въведени две числа връща средна стойност.
+Напишете друг метод, който приема два параметъра - числа, и връща сумата им. 
 Извикайте втория метод с параметри първия. */
-
 
 public class P03SumAveragePlusParamNew {
 
@@ -31,5 +28,4 @@ public class P03SumAveragePlusParamNew {
     //сума с параметри на средна стойност:
     private static void returnSumWithAverageParam (float returnAverage) {
     }
-
 }
