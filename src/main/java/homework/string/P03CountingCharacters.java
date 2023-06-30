@@ -1,10 +1,10 @@
 package homework.string;
 
-// from Lecture 05:
-
 import java.util.Scanner;
 
-/* Пребройте колко думи има в един стринг (разделете текста по space) - изпишете резултата в нея. */
+// from Lecture 05:
+/* Пребройте колко думи има в един стринг (разделете текста по space) - изпишете резултата в нея.*/
+
 public class P03CountingCharacters {
     public static void main(String[] args) {
 
@@ -21,6 +21,5 @@ public class P03CountingCharacters {
         String newString = scanner.nextLine();
 
         System.out.printf("The length of the text is %d characters.", newString.length());
-
     }
 }
