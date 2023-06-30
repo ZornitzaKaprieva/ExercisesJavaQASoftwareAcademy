@@ -1,10 +1,10 @@
 package homework.string;
 
-// from Lecture 05:
-
 import java.util.Scanner;
 
-/* Обединете 2 и повече стринга в един и го изпишете в конзолата. */
+// from Lecture 05
+/* Обединете 2 и повече стринга в един и го изпишете в конзолата.*/
+
 public class P04Concat {
     public static void main(String[] args) {
 
@@ -31,6 +31,5 @@ public class P04Concat {
         String stringSurname = scanner.nextLine();
 
         System.out.printf("Your name is %s.\n", stringForename.concat(stringMiddleName.concat(stringSurname)));
-
     }
 }
