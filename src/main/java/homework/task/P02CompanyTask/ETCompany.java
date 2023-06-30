@@ -1,18 +1,15 @@
 package homework.task.P02CompanyTask;
 
-public class ETCompany extends Company implements Invoice {
-
-    /*Да се напише клас Фирма-ЕТ, който да наследява класа Фирма и да има следните член променливи:
+/*Да се напише клас Фирма-ЕТ, който да наследява класа Фирма и да има следните член променливи:
 •	Име на собственика, учредил фирмата- тип string;
 •	Първоначален капитал – тип double;
 •	Актуален капитал – тип double;
-
 За всички член променливи напишете get и set методи.
-
 Класът Фирма-ЕТ трябва да има метод, който изчислява печалбата към днешна дата на фирмата.
 Той трябва да бъде нестатичен, да не приема параметри,
-и трябва да връща като резултат число double, което да бъде разликата между актуалния и първоначалния капитал на съответната фирма.
-*/
+и трябва да връща като резултат число double, което да бъде разликата между актуалния и първоначалния капитал на съответната фирма.*/
+
+public class ETCompany extends Company implements Invoice {
 
     private String ownerName;
     private double initialCapital;
@@ -23,7 +20,6 @@ public class ETCompany extends Company implements Invoice {
         setOwnerName(ownerName);
         setInitialCapital(initialCapital);
         setCurrentCapital(currentCapital);
-
     }
 
     public String getOwnerName() {
@@ -76,7 +72,6 @@ public class ETCompany extends Company implements Invoice {
                 super.getCompanyName(), super.getStartDate(), super.getBulstad(),
                 getOwnerName(), getInitialCapital(), getCurrentCapital());
     }
-
 
     @Override
     public void printDataInvoice() {
