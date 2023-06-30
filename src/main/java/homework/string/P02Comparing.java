@@ -1,10 +1,10 @@
 package homework.string;
 
-// from Lecture 05:
-
 import java.util.Scanner;
 
+// from Lecture 05
 /* Сравнете 2 стринга дали са еднакви - подадени от конзолата и изпишете резултата в нея.*/
+
 public class P02Comparing {
     public static void main(String[] args) {
 
@@ -20,8 +20,7 @@ public class P02Comparing {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter a word: ");
-            String word1 = scanner.nextLine();
-
+        String word1 = scanner.nextLine();
 
         System.out.println("Enter another word: ");
         String word2 = scanner.nextLine();
