@@ -6,9 +6,7 @@ public class Test {
 
         Company company1 = new Company("My Company", "01.06.2016", "1234567890");
 
-        ETCompany etCompany1 = new ETCompany("My Company", "01.06.2016", "1234567890",
-                "Zornitza", 500.0, 800.0 );
-
+        ETCompany etCompany1 = new ETCompany("My Company", "01.06.2016", "1234567890", "Zornitza", 500.0, 800.0 );
 
         etCompany1.printCompanyInfo();
         System.out.println("..........");
@@ -18,9 +16,5 @@ public class Test {
 
         etCompany1.printDataInvoice();
         System.out.println("..........");
-
-
-
     }
-
 }
