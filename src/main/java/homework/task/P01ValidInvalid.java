@@ -1,10 +1,10 @@
 package homework.task;
 
-/*slide16*/
-public class P01ValidInvalid {
+/*Кои от редовете в интерфейса са невалидни и ще бъдат отхвърлени от компилатора?*/
 
-    /*Кои от редовете в интерфейса са невалидни и ще бъдат отхвърлени от компилатора?*/
+public class P01ValidInvalid {
     public static interface P01ValidOrInvalid {
+        
         public static final int x1 = 3; //valid
         public static int x2 = 3; //valid
         static int x3 = 3; //valid
