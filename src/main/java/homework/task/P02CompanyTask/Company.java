@@ -1,17 +1,14 @@
 package homework.task.P02CompanyTask;
 
-public class Company {
     /*Име на фирмата – тип string;
 •	Дата на създаване на фирмата – тип string;
 •	Булстат – уникален 10 знаков код включващ букви и цифри – тип string.
+За всички член променливи напишете get и set методи, като за последния направете проверка за дължина на string-а в set-метода му(length = 10).*/
 
-За всички член променливи напишете get и set методи, като за последния направете проверка за дължина на string-а в set-метода му(length = 10).
-*/
-
+public class Company {
     private String companyName;
     private String startDate;
     private String bulstad;
-
 
     public Company(String companyName, String startDate, String bulstad) {
         setCompanyName(companyName);
@@ -41,7 +38,6 @@ public class Company {
         } else {
             System.out.println("ERROR: Input Start Date.");
         }
-
     }
 
     public String getBulstad() {
