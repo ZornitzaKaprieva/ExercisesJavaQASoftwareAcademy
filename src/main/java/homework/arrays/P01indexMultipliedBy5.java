@@ -7,12 +7,11 @@ package homework.arrays;
 public class P01indexMultipliedBy5 {
     public static void main(String[] args) {
 
-        int[] to20Answer = new int[20];
-        int i = 0;
+        int[] numberArray = new int[20];
 
-        for (i = 0; i < to20Answer.length; i++) {
-            to20Answer[i] = i * 5;
-            System.out.println(to20Answer[i]);
+        for (int i = 0; i < numberArray.length; i++) {
+            numberArray[i] = i * 5;
+            System.out.printf("Index is: %d. Value is: %d%n", i, numberArray[i]);
         }
     }
 }
